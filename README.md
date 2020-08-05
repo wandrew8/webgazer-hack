@@ -4,7 +4,7 @@ This application was built in four hours as part of a hackathon with Mintbean. T
 
 This hackathon was a great way to get familiar with new libraries. I utilized two new libraries and though I certainly didn't accomplish all my goals for this project, it was still a great learning experience.
 
-![eye gazer application](./public/images/eyeGazer.png)
+![eye gazer application](./eyeGazer.png)
 
 Tech Used:
 - CSS normalize with Sakura
