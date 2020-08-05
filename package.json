@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/wandrew8/webgazer-hack#readme",
   "dependencies": {
+    "heatmap.js": "^2.0.5",
     "lite-server": "^2.5.4"
   }
 }
